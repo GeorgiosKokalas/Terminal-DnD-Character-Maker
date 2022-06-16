@@ -1,0 +1,33 @@
+Name:  Race:  Class:        
+Size:    HP:   Speed:         
+Level: 1
+
+Attributes                                Skill Profiiences     
+-----------------------------             -------------------
+Name         |Score |Modifier             [St]Athletics[Wi]Animal Handling
+-------------+------+--------             [De]Acrobatics[Wi]Insight
+Strength                [De]Sleight of Hand[Wi]Medicine
+Dexterity                [De]Stealth[Wi]Perception
+Constitution                [In]Arcana[Wi]Survival
+Intelligence                [In]History[Ch]Deception
+Wisdom                  [In]Investigation[Ch]Intimidation
+Charisma                [In]Nature[Ch]Performance
+                                          [In]Religion[Ch]Persuasion
+
+Saving Throws:
+
+Languages:
+
+Armor Proficiencies:  
+
+Weapon Proficiencies: 
+
+Tool Proficiencies: 
+
+Extras:
+
+Feats:                                    
+                                          
+Items:                                    
+                                          
+                                          

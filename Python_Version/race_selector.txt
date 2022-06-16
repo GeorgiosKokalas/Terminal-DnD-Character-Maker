@@ -1,0 +1,34 @@
+What were you born as? (Select your Race)
+  Basic                 | Expansions (Expansion name in paretheses)
+--------------------------------------------------------------------
+[0] RANDOM (Basic only) |  [10] Orc of Exandria (EGtW)     |  [20] Aasimar (VGtM)       |  [30] Triton (VGtM)               |  [40] Centaur (GGtR)
+[1] Dragonborn          |  [11] Leonin (MOoT)              |  [21] Bugbear (VGtM)       |  [31] Yuan-ti Pureblood (VGtM)    |  [41] Loxodon (GGtR)
+[2] Dwarf               |  [12] Satyr (MOoT)               |  [22] Firbolg (VGtM)       |  [32] Gith (MToF)                 |  [42] Minotaur (GGtR)
+[3] Elf                 |  [13] Fairy (TWBtW)              |  [23] Goblin (VGtM)        |  [33] Verdan (AI)                 |  [43] Simic Hybrid (GGtR)
+[4] Gnome               |  [14] Haregon (TWBtW)            |  [24] Hobgoblin (VGtM)     |  [34] Locathah (LR)               |  [44] Vedalken (GGtR)
+[5] Half-Elf            |  [15] Aarakocra (EEPC)           |  [25] Kenku (VGtM)         |  [35] Changeling (ERftLW)         |  [45] Grung (OGA)
+[6] Hafling             |  [16] Genasi (EEPC)              |  [26] Kobold (VGtM)        |  [36] Kalashtar (ERftLW)          |  [46] RANDOM (Expansion only)
+[7] Half-Orc            |  [17] Goliath (EEPC)             |  [27] Lizardfolk (VGtM)    |  [37] Orc of Eberron (ERftLW)     |  [47] RANDOM (All)
+[8] Human               |  [18] Feral Tiefling (SCAG)      |  [28] Orc (VGtM)           |  [38] Shifter (ERftLW)            |  
+[9] Tiefling            |  [19] Tortle (TTP)               |  [29] Tabaxi (VGtM)        |  [39] Warforged (ERftLW)          |  
+
+(#COLOR)
+YELLOW|_|RANDOM
+LIGHT_BLUE|_|  Basic
+PURPLE|_|Expansions (Expansion name in paretheses)
+RED|_|(EGtW)
+GREEN|_|(MOoT)
+YELLOW|_|(TWBtW)
+CYAN|_|(EEPC)
+BLUE|_|(SCAG)
+PURPLE|_|(TTP)
+LIGHT_YELLOW|_|(VGtM)
+LIGHT_BLUE|_|(MToF)
+LIGHT_PURPLE|_|(AI)
+LIGHT_RED|_|(LR)
+LIGHT_GREEN|_|(ERftLW)
+BLUE|_|(GGtR)
+PURPLE|_|(OGA)
+BLUE|_|(Basic only)
+PURPLE|_|(Expansion only)
+YELLOW|_|(All)

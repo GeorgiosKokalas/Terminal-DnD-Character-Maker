@@ -1,0 +1,15 @@
+Dungeons and Dragons is a Tabletop Roleplaying Game that immerses the player in a world of medieval weaponry and magic.
+You are a Player, an individual that inhabits this world that will come to shape it one way or another, either in a small scale or a gigantic one, through your actions or inactions.
+You will shape your character and will embark on a journey laid to you by your Dungeon Master.
+Your choices will affect the world around you and the world will affect your choices.
+But first things first, you need to create your character, and this is were this DnD Character Creator comes in.
+You will be given various prompts to create your character, and then You will be given your character sheet in the form of a txt file.
+It is understandable that a txt file is not the best of formats for this, but having a program make your character is pretty nifty, no?
+
+(#COLOR)
+LIGHT_GREEN|_|Dungeons and Dragons
+LIGHT_PURPLE|_|Tabletop Roleplaying Game
+RED|_|Player
+YELLOW|_|DnD Character Creator
+LIGHT_BLUE|_|character
+LIGHT_RED|_|txt file

@@ -1,0 +1,12 @@
+What profession did you choose in your life? (Select your class)
+[0] RANDOM          |  [8]  Ranger        
+[1] Barbarian       |  [9]  Rogue         
+[2] Bard            |  [10] Sorcerer     
+[3] Cleric          |  [11] Warlock      
+[4] Druid           |  [12] Wizard       
+[5] Fighter         |  [13] Artificer    
+[6] Monk            |  [14] Blood Hunter 
+[7] Paladin         |  
+
+(#COLOR)
+YELLOW|_|RANDOM
